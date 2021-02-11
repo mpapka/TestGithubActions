@@ -1,3 +1,1 @@
 # TestGithubActions
-
-## Author: Test
