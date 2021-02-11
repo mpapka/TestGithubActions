@@ -17,7 +17,7 @@ int main()
 {
   const int minValue=1,maxValue=9999;
 
-  cout<<"List Of Perfect numbers in the range 1 to 9999 :"<<endl;
+  cout<<"List Of Perfect numbers in the range 1 to 9998 :"<<endl;
   for(unsigned int i=minValue;i<=maxValue;i++)
   {
     if(isPerfect(i))
