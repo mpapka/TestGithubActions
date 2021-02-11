@@ -22,7 +22,7 @@ int main()
   {
     if(isPerfect(i))
     {
-      cout<<"  "<< i <<"  = "<< divisors(i) <<endl;
+      cout<<"  "<< i <<" = "<< divisors(i) <<endl;
     }
   }
 
