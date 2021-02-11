@@ -22,3 +22,9 @@ clear:
 
 run:
 	./perfectNumsList
+
+test1:
+	./perfectNumsList > output1.txt
+	diff correct1.txt output1.txt
+
+test: test1
